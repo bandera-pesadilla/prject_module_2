@@ -1,0 +1,5 @@
+
+
+PORT = 3001
+DB= mongodb://localhost/project-back
+SECRET =secreto
